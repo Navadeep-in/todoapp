@@ -2,10 +2,6 @@
 
 A sleek, modern task management application built with **React 18** and **Vite**. Features a clean user interface, responsive layout, dynamic filtering, task progress metrics, and persistent storage via `localStorage`.
 
-## 🚀 Live Demo
-
-Check out the live application on GitHub Pages:
-**[https://avinashdanny5-coder.github.io/todoapp/](https://avinashdanny5-coder.github.io/todoapp/)**
 
 ---
 
