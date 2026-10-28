@@ -5,7 +5,7 @@ A sleek, modern task management application built with **React 18** and **Vite**
 
 ---
 
-## ✨ Features
+## ✨ Features.   
 
 - **Task Management**: Seamlessly add, complete, and delete tasks.
 - **Dynamic Filtering**: Easily filter tasks by status: `All`, `Active`, and `Completed`.
